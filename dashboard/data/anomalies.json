@@ -1,0 +1,1402 @@
+[
+  {
+    "transaction_id": 274772,
+    "anomaly_score": -0.210301,
+    "detection_method": "IsolationForest",
+    "amount": 25691.16,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 173354,
+    "anomaly_score": -0.204849,
+    "detection_method": "IsolationForest",
+    "amount": 4861.64,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 169458,
+    "anomaly_score": -0.204193,
+    "detection_method": "IsolationForest",
+    "amount": 11789.84,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 173055,
+    "anomaly_score": -0.203763,
+    "detection_method": "IsolationForest",
+    "amount": 4543.64,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 195219,
+    "anomaly_score": -0.203763,
+    "detection_method": "IsolationForest",
+    "amount": 4248.34,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 220091,
+    "anomaly_score": -0.202678,
+    "detection_method": "IsolationForest",
+    "amount": 5964.95,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 151297,
+    "anomaly_score": -0.202024,
+    "detection_method": "IsolationForest",
+    "amount": 18910.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 54019,
+    "anomaly_score": -0.201483,
+    "detection_method": "IsolationForest",
+    "amount": 11898.09,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 206229,
+    "anomaly_score": -0.199973,
+    "detection_method": "IsolationForest",
+    "amount": 1676.6,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 261283,
+    "anomaly_score": -0.199973,
+    "detection_method": "IsolationForest",
+    "amount": 1673.61,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 58466,
+    "anomaly_score": -0.199848,
+    "detection_method": "IsolationForest",
+    "amount": 19656.53,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 206256,
+    "anomaly_score": -0.199433,
+    "detection_method": "IsolationForest",
+    "amount": 1676.6,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 74700,
+    "anomaly_score": -0.199433,
+    "detection_method": "IsolationForest",
+    "amount": 8790.26,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 104968,
+    "anomaly_score": -0.199433,
+    "detection_method": "IsolationForest",
+    "amount": 5303.69,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 145091,
+    "anomaly_score": -0.198894,
+    "detection_method": "IsolationForest",
+    "amount": 2018.09,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 219258,
+    "anomaly_score": -0.197277,
+    "detection_method": "IsolationForest",
+    "amount": 3502.11,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 131481,
+    "anomaly_score": -0.197277,
+    "detection_method": "IsolationForest",
+    "amount": 1593.37,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 244675,
+    "anomaly_score": -0.197277,
+    "detection_method": "IsolationForest",
+    "amount": 3758.25,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 262379,
+    "anomaly_score": -0.197166,
+    "detection_method": "IsolationForest",
+    "amount": 2074.69,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 219641,
+    "anomaly_score": -0.196739,
+    "detection_method": "IsolationForest",
+    "amount": 1417.29,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 158500,
+    "anomaly_score": -0.196627,
+    "detection_method": "IsolationForest",
+    "amount": 5420.61,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 46842,
+    "anomaly_score": -0.196615,
+    "detection_method": "IsolationForest",
+    "amount": 12910.93,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 110609,
+    "anomaly_score": -0.196201,
+    "detection_method": "IsolationForest",
+    "amount": 1729.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 121788,
+    "anomaly_score": -0.195664,
+    "detection_method": "IsolationForest",
+    "amount": 1729.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 231455,
+    "anomaly_score": -0.195441,
+    "detection_method": "IsolationForest",
+    "amount": 3552.96,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 1633,
+    "anomaly_score": -0.19459,
+    "detection_method": "IsolationForest",
+    "amount": 7712.43,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 228159,
+    "anomaly_score": -0.194479,
+    "detection_method": "IsolationForest",
+    "amount": 8182.7,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 188561,
+    "anomaly_score": -0.194479,
+    "detection_method": "IsolationForest",
+    "amount": 7766.6,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 176336,
+    "anomaly_score": -0.194054,
+    "detection_method": "IsolationForest",
+    "amount": 1676.6,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 110468,
+    "anomaly_score": -0.194054,
+    "detection_method": "IsolationForest",
+    "amount": 1441.49,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 262844,
+    "anomaly_score": -0.193407,
+    "detection_method": "IsolationForest",
+    "amount": 1441.06,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 261844,
+    "anomaly_score": -0.192336,
+    "detection_method": "IsolationForest",
+    "amount": 1441.06,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 216066,
+    "anomaly_score": -0.192336,
+    "detection_method": "IsolationForest",
+    "amount": 6982.67,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 262840,
+    "anomaly_score": -0.192336,
+    "detection_method": "IsolationForest",
+    "amount": 1441.06,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 117640,
+    "anomaly_score": -0.192324,
+    "detection_method": "IsolationForest",
+    "amount": 2917.64,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 190138,
+    "anomaly_score": -0.192225,
+    "detection_method": "IsolationForest",
+    "amount": 6652.89,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 217534,
+    "anomaly_score": -0.191802,
+    "detection_method": "IsolationForest",
+    "amount": 1380.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 117384,
+    "anomaly_score": -0.190187,
+    "detection_method": "IsolationForest",
+    "amount": 3759.39,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 218986,
+    "anomaly_score": -0.189556,
+    "detection_method": "IsolationForest",
+    "amount": 7541.7,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 232015,
+    "anomaly_score": -0.189244,
+    "detection_method": "IsolationForest",
+    "amount": 1201.93,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 217782,
+    "anomaly_score": -0.189133,
+    "detection_method": "IsolationForest",
+    "amount": 6828.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 56336,
+    "anomaly_score": -0.188579,
+    "detection_method": "IsolationForest",
+    "amount": 5934.9,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23129,
+    "anomaly_score": -0.188427,
+    "detection_method": "IsolationForest",
+    "amount": 7429.15,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 271811,
+    "anomaly_score": -0.188068,
+    "detection_method": "IsolationForest",
+    "amount": 1875.48,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 37001,
+    "anomaly_score": -0.187958,
+    "detection_method": "IsolationForest",
+    "amount": 6950.51,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 219531,
+    "anomaly_score": -0.187426,
+    "detection_method": "IsolationForest",
+    "amount": 5714.2,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 39770,
+    "anomaly_score": -0.186584,
+    "detection_method": "IsolationForest",
+    "amount": 1201.83,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 271774,
+    "anomaly_score": -0.186364,
+    "detection_method": "IsolationForest",
+    "amount": 1783.26,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19761,
+    "anomaly_score": -0.185873,
+    "detection_method": "IsolationForest",
+    "amount": 7879.42,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 144687,
+    "anomaly_score": -0.185303,
+    "detection_method": "IsolationForest",
+    "amount": 5268.04,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 271854,
+    "anomaly_score": -0.182168,
+    "detection_method": "IsolationForest",
+    "amount": 1350.9,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 284250,
+    "anomaly_score": -0.1816,
+    "detection_method": "IsolationForest",
+    "amount": 10199.44,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 44514,
+    "anomaly_score": -0.1816,
+    "detection_method": "IsolationForest",
+    "amount": 6669.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 110250,
+    "anomaly_score": -0.181292,
+    "detection_method": "IsolationForest",
+    "amount": 1441.49,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 69373,
+    "anomaly_score": -0.180655,
+    "detection_method": "IsolationForest",
+    "amount": 4652.24,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 228724,
+    "anomaly_score": -0.180567,
+    "detection_method": "IsolationForest",
+    "amount": 7367.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 235320,
+    "anomaly_score": -0.180019,
+    "detection_method": "IsolationForest",
+    "amount": 4781.44,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 245475,
+    "anomaly_score": -0.179983,
+    "detection_method": "IsolationForest",
+    "amount": 8787.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 240740,
+    "anomaly_score": -0.179444,
+    "detection_method": "IsolationForest",
+    "amount": 7862.39,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 62414,
+    "anomaly_score": -0.179076,
+    "detection_method": "IsolationForest",
+    "amount": 5341.41,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 238413,
+    "anomaly_score": -0.178405,
+    "detection_method": "IsolationForest",
+    "amount": 6900.47,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 229037,
+    "anomaly_score": -0.178348,
+    "detection_method": "IsolationForest",
+    "amount": 1210.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 119631,
+    "anomaly_score": -0.176975,
+    "detection_method": "IsolationForest",
+    "amount": 3740.25,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 57210,
+    "anomaly_score": -0.176721,
+    "detection_method": "IsolationForest",
+    "amount": 7636.3,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 50288,
+    "anomaly_score": -0.176559,
+    "detection_method": "IsolationForest",
+    "amount": 2310.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 196095,
+    "anomaly_score": -0.176438,
+    "detection_method": "IsolationForest",
+    "amount": 5356.42,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 48956,
+    "anomaly_score": -0.175926,
+    "detection_method": "IsolationForest",
+    "amount": 4627.1,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 154317,
+    "anomaly_score": -0.175914,
+    "detection_method": "IsolationForest",
+    "amount": 5707.82,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 42295,
+    "anomaly_score": -0.175402,
+    "detection_method": "IsolationForest",
+    "amount": 1984.45,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 201639,
+    "anomaly_score": -0.174988,
+    "detection_method": "IsolationForest",
+    "amount": 7583.32,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 239533,
+    "anomaly_score": -0.174879,
+    "detection_method": "IsolationForest",
+    "amount": 5627.06,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 230294,
+    "anomaly_score": -0.174879,
+    "detection_method": "IsolationForest",
+    "amount": 4290.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 49407,
+    "anomaly_score": -0.174879,
+    "detection_method": "IsolationForest",
+    "amount": 5680.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 98676,
+    "anomaly_score": -0.174804,
+    "detection_method": "IsolationForest",
+    "amount": 3307.14,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 228526,
+    "anomaly_score": -0.174627,
+    "detection_method": "IsolationForest",
+    "amount": 6998.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10691,
+    "anomaly_score": -0.174173,
+    "detection_method": "IsolationForest",
+    "amount": 1218.89,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 76706,
+    "anomaly_score": -0.173867,
+    "detection_method": "IsolationForest",
+    "amount": 950.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 175711,
+    "anomaly_score": -0.173834,
+    "detection_method": "IsolationForest",
+    "amount": 5918.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 169141,
+    "anomaly_score": -0.172867,
+    "detection_method": "IsolationForest",
+    "amount": 4633.95,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 230945,
+    "anomaly_score": -0.172708,
+    "detection_method": "IsolationForest",
+    "amount": 1350.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 105027,
+    "anomaly_score": -0.172607,
+    "detection_method": "IsolationForest",
+    "amount": 3152.32,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 227922,
+    "anomaly_score": -0.172481,
+    "detection_method": "IsolationForest",
+    "amount": 10000.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 184434,
+    "anomaly_score": -0.171864,
+    "detection_method": "IsolationForest",
+    "amount": 519.76,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 54697,
+    "anomaly_score": -0.171747,
+    "detection_method": "IsolationForest",
+    "amount": 5130.3,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 167290,
+    "anomaly_score": -0.171469,
+    "detection_method": "IsolationForest",
+    "amount": 4905.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22637,
+    "anomaly_score": -0.171442,
+    "detection_method": "IsolationForest",
+    "amount": 3889.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 48530,
+    "anomaly_score": -0.171097,
+    "detection_method": "IsolationForest",
+    "amount": 6511.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 170008,
+    "anomaly_score": -0.170705,
+    "detection_method": "IsolationForest",
+    "amount": 4861.64,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 219890,
+    "anomaly_score": -0.170598,
+    "detection_method": "IsolationForest",
+    "amount": 3783.15,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 224570,
+    "anomaly_score": -0.170324,
+    "detection_method": "IsolationForest",
+    "amount": 200.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 168403,
+    "anomaly_score": -0.170293,
+    "detection_method": "IsolationForest",
+    "amount": 970.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 76680,
+    "anomaly_score": -0.170185,
+    "detection_method": "IsolationForest",
+    "amount": 2525.81,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 154980,
+    "anomaly_score": -0.170173,
+    "detection_method": "IsolationForest",
+    "amount": 4462.71,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 226719,
+    "anomaly_score": -0.169928,
+    "detection_method": "IsolationForest",
+    "amount": 3416.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15365,
+    "anomaly_score": -0.169223,
+    "detection_method": "IsolationForest",
+    "amount": 2520.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 280262,
+    "anomaly_score": -0.169146,
+    "detection_method": "IsolationForest",
+    "amount": 2199.54,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 98470,
+    "anomaly_score": -0.169063,
+    "detection_method": "IsolationForest",
+    "amount": 3745.52,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 211450,
+    "anomaly_score": -0.168096,
+    "detection_method": "IsolationForest",
+    "amount": 2160.12,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 226691,
+    "anomaly_score": -0.167939,
+    "detection_method": "IsolationForest",
+    "amount": 8360.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15836,
+    "anomaly_score": -0.167858,
+    "detection_method": "IsolationForest",
+    "amount": 6130.21,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 187594,
+    "anomaly_score": -0.166355,
+    "detection_method": "IsolationForest",
+    "amount": 4738.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 225524,
+    "anomaly_score": -0.165351,
+    "detection_method": "IsolationForest",
+    "amount": 1975.53,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 68943,
+    "anomaly_score": -0.165003,
+    "detection_method": "IsolationForest",
+    "amount": 2800.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 220438,
+    "anomaly_score": -0.164935,
+    "detection_method": "IsolationForest",
+    "amount": 4644.25,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 154372,
+    "anomaly_score": -0.164394,
+    "detection_method": "IsolationForest",
+    "amount": 2.28,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 230516,
+    "anomaly_score": -0.164286,
+    "detection_method": "IsolationForest",
+    "amount": 3362.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 209313,
+    "anomaly_score": -0.164238,
+    "detection_method": "IsolationForest",
+    "amount": 3104.97,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 154685,
+    "anomaly_score": -0.163496,
+    "detection_method": "IsolationForest",
+    "amount": 0.01,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 236430,
+    "anomaly_score": -0.162911,
+    "detection_method": "IsolationForest",
+    "amount": 152.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 224697,
+    "anomaly_score": -0.162467,
+    "detection_method": "IsolationForest",
+    "amount": 3563.19,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 199848,
+    "anomaly_score": -0.162459,
+    "detection_method": "IsolationForest",
+    "amount": 1860.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 104127,
+    "anomaly_score": -0.162343,
+    "detection_method": "IsolationForest",
+    "amount": 3209.39,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 82332,
+    "anomaly_score": -0.162282,
+    "detection_method": "IsolationForest",
+    "amount": 5317.28,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 206784,
+    "anomaly_score": -0.161944,
+    "detection_method": "IsolationForest",
+    "amount": 1174.92,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 219183,
+    "anomaly_score": -0.161804,
+    "detection_method": "IsolationForest",
+    "amount": 4692.65,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 61334,
+    "anomaly_score": -0.161473,
+    "detection_method": "IsolationForest",
+    "amount": 2677.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 201776,
+    "anomaly_score": -0.16143,
+    "detection_method": "IsolationForest",
+    "amount": 1402.38,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 74244,
+    "anomaly_score": -0.161385,
+    "detection_method": "IsolationForest",
+    "amount": 5259.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 29809,
+    "anomaly_score": -0.160883,
+    "detection_method": "IsolationForest",
+    "amount": 3055.88,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 74186,
+    "anomaly_score": -0.160476,
+    "detection_method": "IsolationForest",
+    "amount": 1580.56,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 244699,
+    "anomaly_score": -0.160321,
+    "detection_method": "IsolationForest",
+    "amount": 1565.12,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 108425,
+    "anomaly_score": -0.159978,
+    "detection_method": "IsolationForest",
+    "amount": 1235.79,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 43429,
+    "anomaly_score": -0.159525,
+    "detection_method": "IsolationForest",
+    "amount": 364.19,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 225698,
+    "anomaly_score": -0.159515,
+    "detection_method": "IsolationForest",
+    "amount": 1690.57,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 102442,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 102443,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 102444,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 102445,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 102447,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 102446,
+    "anomaly_score": -0.158399,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 250925,
+    "anomaly_score": -0.158119,
+    "detection_method": "IsolationForest",
+    "amount": 4465.04,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 154588,
+    "anomaly_score": -0.157981,
+    "detection_method": "IsolationForest",
+    "amount": 0.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 43161,
+    "anomaly_score": -0.157915,
+    "detection_method": "IsolationForest",
+    "amount": 273.01,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 212951,
+    "anomaly_score": -0.15784,
+    "detection_method": "IsolationForest",
+    "amount": 1049.61,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 106012,
+    "anomaly_score": -0.157734,
+    "detection_method": "IsolationForest",
+    "amount": 1550.21,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 168470,
+    "anomaly_score": -0.157607,
+    "detection_method": "IsolationForest",
+    "amount": 4651.39,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 47300,
+    "anomaly_score": -0.157535,
+    "detection_method": "IsolationForest",
+    "amount": 5114.1,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 55830,
+    "anomaly_score": -0.157308,
+    "detection_method": "IsolationForest",
+    "amount": 3684.62,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 213676,
+    "anomaly_score": -0.157214,
+    "detection_method": "IsolationForest",
+    "amount": 3492.39,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 173038,
+    "anomaly_score": -0.156871,
+    "detection_method": "IsolationForest",
+    "amount": 3178.9,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 78107,
+    "anomaly_score": -0.156588,
+    "detection_method": "IsolationForest",
+    "amount": 1737.51,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 29668,
+    "anomaly_score": -0.156556,
+    "detection_method": "IsolationForest",
+    "amount": 3526.23,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 65424,
+    "anomaly_score": -0.156442,
+    "detection_method": "IsolationForest",
+    "amount": 500.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 190089,
+    "anomaly_score": -0.156267,
+    "detection_method": "IsolationForest",
+    "amount": 1042.8,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 67429,
+    "anomaly_score": -0.156016,
+    "detection_method": "IsolationForest",
+    "amount": 4901.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 93807,
+    "anomaly_score": -0.154957,
+    "detection_method": "IsolationForest",
+    "amount": 4002.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 24634,
+    "anomaly_score": -0.154536,
+    "detection_method": "IsolationForest",
+    "amount": 4313.82,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12370,
+    "anomaly_score": -0.15442,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12262,
+    "anomaly_score": -0.15442,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12109,
+    "anomaly_score": -0.15442,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 272260,
+    "anomaly_score": -0.153962,
+    "detection_method": "IsolationForest",
+    "amount": 3990.12,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15540,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15811,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15477,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15167,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15507,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15737,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17367,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16111,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16781,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14212,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14921,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17318,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15782,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17408,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15452,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15226,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15752,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15567,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15205,
+    "anomaly_score": -0.153911,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 47744,
+    "anomaly_score": -0.153758,
+    "detection_method": "IsolationForest",
+    "amount": 2149.14,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 249509,
+    "anomaly_score": -0.153089,
+    "detection_method": "IsolationForest",
+    "amount": 3097.98,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 208306,
+    "anomaly_score": -0.153077,
+    "detection_method": "IsolationForest",
+    "amount": 4487.49,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 217410,
+    "anomaly_score": -0.152771,
+    "detection_method": "IsolationForest",
+    "amount": 538.71,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 199539,
+    "anomaly_score": -0.152608,
+    "detection_method": "IsolationForest",
+    "amount": 593.48,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 195200,
+    "anomaly_score": -0.152604,
+    "detection_method": "IsolationForest",
+    "amount": 1651.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 72408,
+    "anomaly_score": -0.152541,
+    "detection_method": "IsolationForest",
+    "amount": 3882.66,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 43205,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 106.55,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 150680,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 104.03,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 150681,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 104.03,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 150698,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 97.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11881,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12071,
+    "anomaly_score": -0.151878,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 76737,
+    "anomaly_score": -0.151675,
+    "detection_method": "IsolationForest",
+    "amount": 568.15,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 145393,
+    "anomaly_score": -0.151563,
+    "detection_method": "IsolationForest",
+    "amount": 2476.7,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 130047,
+    "anomaly_score": -0.151436,
+    "detection_method": "IsolationForest",
+    "amount": 5667.56,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 165,
+    "anomaly_score": -0.151316,
+    "detection_method": "IsolationForest",
+    "amount": 3828.04,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17481,
+    "anomaly_score": -0.150864,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 43419,
+    "anomaly_score": -0.150864,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17454,
+    "anomaly_score": -0.150864,
+    "detection_method": "IsolationForest",
+    "amount": 99.99,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 50923,
+    "anomaly_score": -0.150782,
+    "detection_method": "IsolationForest",
+    "amount": 4112.89,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 86493,
+    "anomaly_score": -0.150712,
+    "detection_method": "IsolationForest",
+    "amount": 720.0,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21587,
+    "anomaly_score": -0.150692,
+    "detection_method": "IsolationForest",
+    "amount": 3463.6,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 42946,
+    "anomaly_score": -0.150357,
+    "detection_method": "IsolationForest",
+    "amount": 0.76,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 44224,
+    "anomaly_score": -0.150268,
+    "detection_method": "IsolationForest",
+    "amount": 139.9,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 201870,
+    "anomaly_score": -0.150083,
+    "detection_method": "IsolationForest",
+    "amount": 660.38,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 229860,
+    "anomaly_score": -0.150072,
+    "detection_method": "IsolationForest",
+    "amount": 2687.48,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 62165,
+    "anomaly_score": -0.149933,
+    "detection_method": "IsolationForest",
+    "amount": 5446.07,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 279611,
+    "anomaly_score": -0.14992,
+    "detection_method": "IsolationForest",
+    "amount": 998.19,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10802,
+    "anomaly_score": -0.149851,
+    "detection_method": "IsolationForest",
+    "amount": 1.0,
+    "is_fraud": 1
+  }
+]

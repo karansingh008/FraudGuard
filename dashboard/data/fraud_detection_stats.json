@@ -1,0 +1,22 @@
+[
+  {
+    "is_fraud": 0,
+    "status": "Not Flagged",
+    "cnt": 278939
+  },
+  {
+    "is_fraud": 0,
+    "status": "Flagged",
+    "cnt": 5376
+  },
+  {
+    "is_fraud": 1,
+    "status": "Not Flagged",
+    "cnt": 171
+  },
+  {
+    "is_fraud": 1,
+    "status": "Flagged",
+    "cnt": 321
+  }
+]

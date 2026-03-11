@@ -1,0 +1,37 @@
+[
+  {
+    "amount_range": "$0-10",
+    "total": 97314,
+    "anomalies": 1355.0
+  },
+  {
+    "amount_range": "$10-50",
+    "total": 92390,
+    "anomalies": 557.0
+  },
+  {
+    "amount_range": "$50-100",
+    "total": 37718,
+    "anomalies": 479.0
+  },
+  {
+    "amount_range": "$100-500",
+    "total": 47893,
+    "anomalies": 715.0
+  },
+  {
+    "amount_range": "$500-1K",
+    "total": 6423,
+    "anomalies": 515.0
+  },
+  {
+    "amount_range": "$1K-5K",
+    "total": 3014,
+    "anomalies": 2021.0
+  },
+  {
+    "amount_range": "$5K+",
+    "total": 55,
+    "anomalies": 55.0
+  }
+]

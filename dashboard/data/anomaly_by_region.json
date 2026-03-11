@@ -1,0 +1,38 @@
+[
+  {
+    "region": "Ahmedabad",
+    "count": 1
+  },
+  {
+    "region": "Bangalore",
+    "count": 3
+  },
+  {
+    "region": "Delhi",
+    "count": 3
+  },
+  {
+    "region": "Hyderabad",
+    "count": 1
+  },
+  {
+    "region": "Jaipur",
+    "count": 1
+  },
+  {
+    "region": "Kolkata",
+    "count": 1
+  },
+  {
+    "region": "Lucknow",
+    "count": 3
+  },
+  {
+    "region": "Mumbai",
+    "count": 3
+  },
+  {
+    "region": "Pune",
+    "count": 4
+  }
+]

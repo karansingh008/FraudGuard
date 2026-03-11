@@ -1,0 +1,10 @@
+{
+  "total_records": 284807,
+  "total_checks": 1424035,
+  "failed_checks": 1,
+  "passed_checks": 1424034,
+  "quality_score": 100.0,
+  "anomaly_count": 5697,
+  "total_frauds": 492,
+  "frauds_detected": 321
+}

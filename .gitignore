@@ -1,0 +1,20 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets
+DataSet/
+*.csv
+!dashboard/data/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+[
+  {
+    "rule_name": "non_negative_amount",
+    "passed": 284807.0,
+    "failed": 0.0
+  },
+  {
+    "rule_name": "non_negative_time",
+    "passed": 284807.0,
+    "failed": 0.0
+  },
+  {
+    "rule_name": "no_null_values",
+    "passed": 284807.0,
+    "failed": 0.0
+  },
+  {
+    "rule_name": "valid_class_label",
+    "passed": 284807.0,
+    "failed": 0.0
+  },
+  {
+    "rule_name": "reasonable_amount",
+    "passed": 284806.0,
+    "failed": 1.0
+  }
+]
