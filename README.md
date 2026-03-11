@@ -8,16 +8,16 @@ A data pipeline that ingests the [Kaggle Credit Card Fraud Detection](https://ww
 
 ```mermaid
 flowchart TD
-    A[creditcard.csv\n284,807 rows] -->|Python / Pandas| B[validate_data.py\nData Validation]
-    B -->|Insert raw data| C[(MySQL\nanalytics DB)]
-    B -->|5 validation rules| C
-    C --> D[compute_quality_score.py\nQuality Scoring]
-    D -->|Store score| C
-    C --> E[detect_anomalies.py\nIsolation Forest]
-    E -->|Store anomalies| C
-    C --> F[export_dashboard_data.py\nJSON Export]
-    F --> G[Web Dashboard\nHTML + Chart.js]
-    C --> H[Tableau Desktop\nLive / Extract]
+    A["creditcard.csv<br/>284,807 rows"] -->|"Python / Pandas"| B["validate_data.py<br/>Data Validation"]
+    B -->|"Insert raw data"| C[("MySQL<br/>analytics DB")]
+    B -->|"5 validation rules"| C
+    C --> D["compute_quality_score.py<br/>Quality Scoring"]
+    D -->|"Store score"| C
+    C --> E["detect_anomalies.py<br/>Isolation Forest"]
+    E -->|"Store anomalies"| C
+    C --> F["export_dashboard_data.py<br/>JSON Export"]
+    F --> G["Web Dashboard<br/>HTML + Chart.js"]
+    C --> H["Tableau Desktop<br/>Live / Extract"]
 
     style A fill:#1e293b,stroke:#3b82f6,color:#f1f5f9
     style B fill:#1e293b,stroke:#10b981,color:#f1f5f9
